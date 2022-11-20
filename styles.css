@@ -1,0 +1,22 @@
+@media only screen and (max-width: 500px) {
+    #buttons {
+        flex-direction: column-reverse;    
+    }
+}
+
+#app {
+    padding: 0
+}
+
+.wrapper {
+    
+    height: 100vh
+}
+
+.box {
+    background-color: white
+}
+
+* {
+    transition: all 0.5s ease-in-out
+}
